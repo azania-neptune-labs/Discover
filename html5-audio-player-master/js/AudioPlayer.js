@@ -202,6 +202,9 @@ var AudioPlayer = (function() {
           '<button class="pl-remove">'+
               '<i class="material-icons">delete</i>'+
           '</button>'+
+          '<a target="_self" href="resources/img/BSFLogo.jpg">'+
+          '<img src="resources/img/BSFLogo.jpg" alt="Forest">'+
+        '</a>'+
         '</li>';
 
       playList.forEach(function(item, i) {
